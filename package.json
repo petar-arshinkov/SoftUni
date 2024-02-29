@@ -1,0 +1,25 @@
+{
+  "name": "softuni",
+  "version": "1.0.0",
+  "description": "Excercises and exams from SoftUni",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petar-arshinkov/SoftUni.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petar-arshinkov/SoftUni/issues"
+  },
+  "homepage": "https://github.com/petar-arshinkov/SoftUni#readme",
+  "dependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  }
+}
